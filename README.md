@@ -1,2 +1,2 @@
 # my-web-ui
-this ia a photography
+this ia a photography page
